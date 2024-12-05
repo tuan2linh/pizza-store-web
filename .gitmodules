@@ -1,0 +1,6 @@
+[submodule "pizza-store-backend"]
+	path = pizza-store-backend
+	url = https://github.com/tuan2linh/pizza-store-backend
+[submodule "pizza-store-frontend"]
+	path = pizza-store-frontend
+	url = https://github.com/tuan2linh/pizza-store-frontend
