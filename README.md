@@ -1,4 +1,4 @@
-# Pizza Store Web Application 🍕
+# Pizza Store Website 🍕
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-v16+-green.svg">
 <img alt="React" src="https://img.shields.io/badge/React-v18-blue.svg">
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-v5+-green.svg">
